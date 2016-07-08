@@ -2,18 +2,290 @@
   "flirt331": [
     
     {
-      "line": "ur hawt",
+      "line": "If I flip a coin, what are the chances of me getting head?",
       "id": 0
     },
     
     {
-      "line": "let's make love",
-      "id": 2
+      "line": "Are you an archaeologist? Cause I gotta big bone for you to inspect.",
+      "id": 1
     },
     
     {
-      "line": "qt",
+      "line": "Are your legs made of Nutella? Because I'd like to spread them.",
+      "id": 2
+    }
+    
+    {
+      "line": "I'm no weather man, but you can expect a few inches tonight.",
       "id": 3
     }
+        
+    {
+      "line": "Did you sit in a pile of sugar? Cause you have a pretty sweet ass.",
+      "id": 4
+    }
+        
+    {
+      "line": "Girl, I just gave you elevated permissions, You now have access to my D:",
+      "id": 5
+    }
+        
+    {
+      "line": "My favourite hobby is sleeping. We should do it together some time.",
+      "id": 6
+    }
+        
+    {
+      "line": "Are you a Sheep? Because you're so unBAAAlievable.",
+      "id": 7
+    }
+        
+    {
+      "line": "Hey babe is that a phone in your pocket? Cause dat ass is calling me!",
+      "id": 8
+    }
+        
+    {
+      "line": "Are you from Tennessee? Because you are the only Ten-I-See."
+      "id": 9
+    }
+        
+    {
+      "line": "Are you a camera? Because every time I look at you, I smile.",
+      "id": 10
+    }
+        
+    {
+      "line": "The human body has 206 bones in it's body, would you like to add another?",
+      "id": 11
+    }
+        
+    {
+      "line": "I dropped skittles down my pants, would you like to taste a rainbow?",
+      "id": 12
+    }
+        
+    {
+      "line": "You remind me of a bolt, now let me teach you how to screw.",
+      "id": 13
+    }
+        
+    {
+      "line": "Do we go to the same school? Because I swear we have chemistry together!",
+      "id": 14
+    }
+        
+    {
+      "line": "You might be asked to leave soon. You are making the other women look bad.",
+      "id": 15
+    }
+        
+    {
+      "line": "Which is easier? You getting into those tight pants or getting you out of them?",
+      "id": 16
+    }
+        
+    {
+      "line": "On a scale of 1 to 10, you’re a 9. I’m the 1 you need.",
+      "id": 17
+    }
+        
+    {
+      "line": "Hey girl, I heard you were looking for a knight in shining armor. I just so happen to be wearing the armor of God.",
+      "id": 18
+    }
+        
+    {
+      "line": "Are you full of beryllium, gold, and titanium? Because you are be au ti.. Full!",
+      "id": 19
+    }
+        
+    {
+      "line": "If you were a fruit, you'd be a fineapple.",
+      "id": 20
+    }
+        
+    {
+      "line": "Are you from the moon? Cause your physique is out of this world.",
+      "id": 21
+    }
+        
+    {
+      "line": "Do you have a name ? Or can I call you mine ?",
+      "id": 22
+    }
+        
+    {
+      "line": "I'm not a photographer, but I can picture me and you together.",
+      "id": 23
+    }
+        
+    {
+      "line": "I seem to have lost my phone number. Can I have yours?",
+      "id": 24
+    }
+        
+    {
+      "line": "Did you invent the airplane? Cause you seem Wright for me.",
+      "id": 25
+    }
+        
+    {
+      "line": "Do you have a map? I'm getting lost in your eyes.",
+      "id": 26
+    }
+        
+    {
+      "line": "I don't have a library card, but do you mind if I check you out?"
+      "id": 27
+    }
+        
+    {
+      "line": "I was feeling a little off today, but you definitely turned me on.",
+      "id": 28
+    }
+        
+    {
+      "line": "Are you a parking ticket? 'Cause you've got fine written all over you.",
+      "id": 29
+    }
+        
+    {
+      "line": "You look cold. Want to use me as a blanket?",
+      "id": 30
+    }
+         
+    {
+      "line": "I'm not drunk, I'm just intoxicated by you.",
+      "id": 31
+    }
+         
+    {
+      "line": "Is there an airport nearby or is that just my heart taking off?",
+      "id": 32
+    }
+         
+    {
+      "line": "My doctor says I'm lacking Vitamin U.",
+      "id": 33
+    }
+         
+    {
+      "line": "Damn, if being sexy was a crime, you'd be guilty as charged!",
+      "id": 34
+    }
+         
+    {
+      "line": "Are you a banana? Because I find you a-peeling.",
+      "id": 35
+    }
+         
+    {
+      "line": "I must be a snowflake, because I've fallen for you.",
+      "id": 36
+    }
+         
+    {
+      "line": "You must be a hell of a thief because you stole my heart from across the room.",
+      "id": 37
+    }
+         
+    {
+      "line": "You know I'd like to invite you over, but I'm afraid you're so hot that you'll skyrocket my air-conditioning bill.",
+      "id": 38
+    }
+         
+    {
+      "line": "If I were to ask you out on a date, would your answer be the same as the answer to this question?",
+      "id": 39
+    }
+         
+    {
+      "line": "Are you a campfire? Cause you are hot and I want s'more.",
+      "id": 40
+    }
+         
+    {
+      "line": "You wanna know what's beautiful? Read the first word again.",
+      "id": 41
+    }
+         
+    {
+      "line": "Of all the beautiful curves on your body, your smile is my favorite.",
+      "id": 42
+    }
+         
+    {
+      "line": "Did you have lucky charms for breakfast? Because you look magically delicious!",
+      "id": 43
+    }
+         
+    {
+      "line": "I'm no organ donor, but I'd be happy to give you my heart.",
+      "id": 44
+    }
+         
+    {
+      "line": "Hershey's makes millions of kisses a day.. .all I'm asking for is one from you.",
+      "id": 45
+    }
+         
+    {
+      "line": "If I received a nickel for everytime I saw someone as beautiful as you, I'd have five cents.",
+      "id": 46
+    }
+         
+    {
+      "line": "Is your name Swiffer? 'Cause you just swept me off my feet.",
+      "id": 47
+    }
+         
+    {
+      "line": "Your lips look so lonely.... Would they like to meet mine?",
+      "id": 48
+    }
+         
+    {
+      "line": "Did the sun come out or did you just smile at me?",
+      "id": 49
+    }
+         
+    {
+      "line": "Can I borrow a kiss? I promise I'll give it back.",
+      "id": 50
+    }
+         
+    {
+      "line": "Are you Willy Wonka's daughter, 'cause you look sweet and delicious.",
+      "id": 51
+    }
+         
+    {
+      "line": "I play the field, and it looks like I just hit a home run with you.",
+      "id": 52
+    }
+ 
+    {
+      "line": "What's on the menu? Me-n-U"
+      "id": 53
+    }
+ 
+    {
+      "line": "I must be in a museum, because you truly are a work of art.",
+      "id": 54
+    }
+ 
+    {
+      "line": "If kisses were snowflakes, I'd send you a blizzard",
+      "id": 55
+    }
+
+    {
+      "line": "I need a dollar, but I only have 90 cents... do you want to be my dime?",
+      "id": 56
+    }
+    
   ]
+  
 }
