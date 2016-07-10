@@ -26,7 +26,7 @@ function flirt(module, bot) {
 		cd = false;
 
 		if (cd === false){
-			bot.sendChat(so+' '+pickupLines.flirt331[Math.abs(Math.floor(Math.random()*pickupLines.flirt331.length))].line);
+			bot.sendChat(data.issuer + so+' '+pickupLines.flirt331[Math.abs(Math.floor(Math.random()*pickupLines.flirt331.length))].line);
 			cooldown(10);
 		}
 
